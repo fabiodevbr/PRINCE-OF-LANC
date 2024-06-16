@@ -1,6 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":825.3333333333334,"scrollY":454},
-{"id":2,"expanded":false,"name":"Lancastle_frente do castelo","order":2,"parentId":1,"scrollX":828,"scrollY":454,"quick":false},
+{"id":2,"expanded":false,"name":"Lancastle_frente do castelo","order":2,"parentId":1,"scrollX":836,"scrollY":1894,"quick":false},
 {"id":3,"expanded":false,"name":"Novo continente","order":3,"parentId":0,"scrollX":5784,"scrollY":1874,"quick":false}
 ]
